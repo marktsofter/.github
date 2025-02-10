@@ -1,0 +1,6 @@
+{
+    "name": "Organization CI Workflow",
+    "description": "MarktsofterCode CI Starter Workflow.",
+    "iconName": "rocket",
+    "categories": ["Deployment"]
+}
